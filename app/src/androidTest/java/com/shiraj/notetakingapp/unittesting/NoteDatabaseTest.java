@@ -1,4 +1,4 @@
-package com.shiraj.notetakingapp;
+package com.shiraj.notetakingapp.unittesting;
 
 import androidx.room.Room;
 import androidx.test.core.app.ApplicationProvider;
